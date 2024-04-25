@@ -1,0 +1,8 @@
+20240425	00:25:58	920625c0-8ae6-4171-866b-3e7db1d06fad	Event emmitted
+20240425	12:28:13	4d8fab09-1d71-47db-bf54-9e203ded16fc	GET	undefined	/
+20240425	12:28:13	b1523897-984e-44e8-b3de-14beb9cf8937	GET	undefined	/css/style.css
+20240425	12:28:13	01578e60-516c-46f3-bd00-68a123e60cbf	GET	undefined	/favicon.ico
+20240425	12:28:19	e8773d03-07ed-4f0d-a6ff-8c167ebede96	GET	undefined	/index
+20240425	12:28:19	39901236-d8bb-4a79-95ce-b5f7f7569713	GET	undefined	/css/style.css
+20240425	12:43:49	531c9904-3d19-4c72-928b-60de1bc9dcfc	GET	undefined	/nelly
+20240425	12:43:49	50fd8a2c-e301-4350-9dc0-7b127217d6ad	GET	undefined	/css/style.css
