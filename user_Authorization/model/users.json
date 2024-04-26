@@ -1,0 +1,10 @@
+[
+    {"username":"walt1",
+    "password":"$2b$10$33Q9jtAoaXC4aUX9Bjihxum2BHG.ENB6JyoCvPjnuXpITtUd8x8/y"},
+
+    {"username":"walt2",
+    "password":"$2b$10$cvfmz./teMWDccIMChAxZ.HqgL3eoQGYTm1z9lGy5iRf8D7NNargC"},
+
+    {"username":"nelly28",
+    "password":"$2b$10$eYXzQ9kjg7qWrX4CJhnVieEfn9Ei1jgMNNMh5jB7oanHnKNT5e.UK",
+    "refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5lbGx5MjgiLCJpYXQiOjE3MTQxMTM2NjYsImV4cCI6MTcxNDIwMDA2Nn0.E7YEP-akUdoaR1sB6dBh35Bv3kZZvMGnLf2gxIYzp54"}] 
