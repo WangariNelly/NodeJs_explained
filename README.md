@@ -26,8 +26,15 @@ Watchs for changes done in your files.
 *Dependancy for generating unique IDs
   ***npm i uuid***
 
+**Routing**
+###thunder client extension -for testing APIs
 
+**User Auth**
+Dependancy: Bycrypt - for salt and hashing during user aunthentication
 
+**Json Web Tokens Auth**
+Dependancies: npm i dotenv jsonwebtoken coookie
+require('crypto').randomBytes(64).toString('hex') - used to manage secret token keys.
 
   ### links
   [NodeJS](https://nodejs.org/docs/latest/)
